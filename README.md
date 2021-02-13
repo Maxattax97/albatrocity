@@ -1,9 +1,8 @@
 # Albatrocity
-=============
 
 ## What does that even mean?
 
-Ask my friend @RyanNavillus:
+Ask my friend [@RyanNavillus](https://github.com/RyanNavillus):
 > ryan: Albatrocity - commit avian war crimes right from the palm of your hand
 
 On a more serious note, I wanted a unique name that described a daemon which observed... Birds have good eyesight... The albatross in particular has especially sharp eyes.
